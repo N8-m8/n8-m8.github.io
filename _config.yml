@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 'https://github.com/N8-m8/n8-m8.github.io/blob/main/assets/images/club-keyboard.jpg'
+avatar: https://github.com/N8-m8/n8-m8.github.io/blob/main/assets/images/club-keyboard.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
