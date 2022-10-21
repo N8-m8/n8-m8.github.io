@@ -3,81 +3,80 @@
 # ----- Commons label -----
 
 layout:
-  post: Post
-  category: Category
-  tag: Tag
+  post: Innlegg
+  category: Kategori
+  tag: Stikkord
 
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
-  home: Home
-  categories: Categories
-  tags: Tags
-  archives: Archives
-  about: About
+  home: Hjem
+  categories: Kategorier
+  tags: Stikkord
+  archives: Arkiv
+  about: Om bloggen
 
 # the text displayed in the search bar & search results
 search:
-  hint: search
-  cancel: Cancel
-  no_results: Oops! No results found.
+  hint: Søk
+  cancel: Avbryt
+  no_results: Ingen treff funnet.
 
 panel:
-  lastmod: Recently Updated
+  lastmod: Nylig oppdatert
   trending_tags: Trending Tags
-  toc: Contents
+  toc: Populære stikkord
 
 copyright:
   # Shown at the bottom of the post
   license:
-    template: This post is licensed under :LICENSE_NAME by the author.
+    template: Dette innlegget er lisensiert under :LICENSE_NAME av forfatteren.
     name: CC BY 4.0
     link: https://creativecommons.org/licenses/by/4.0/
 
   # Displayed in the footer
-  brief: Some rights reserved.
+  brief: Noen rettigheter reservert.
   verbose: >-
-    Except where otherwise noted, the blog posts on this site are licensed
-    under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author.
+    Med mindre annet er angitt, er blogginnleggene på dette nettstedet lisensiert under Creative Commons Attribution 4.0 International (CC BY 4.0)-lisensen av forfatteren.
 
-meta: Powered by :PLATFORM with :THEME theme.
+meta: Drevet av :PLATFORM med :THEME tema.
 
 not_found:
   statment: Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
 
 notification:
-  update_found: A new version of content is available.
-  update: Update
+  update_found: En ny versjon er tilgjengelig. Klikk for å oppdatere.
+  update: Oppdatering
 
 # ----- Posts related labels -----
 
 post:
-  written_by: By
-  posted: Posted
-  updated: Updated
-  words: words
-  pageview_measure: views
+  written_by: Av
+  posted: Publisert
+  updated: Oppdatert
+  words: ord
+  pageview_measure: antall visninger
   read_time:
     unit: min
-    prompt: read
-  relate_posts: Further Reading
-  share: Share
+    prompt: les
+  relate_posts: Videre lesning
+  share: Del
   button:
-    next: Newer
-    previous: Older
+    next: Nyere
+    previous: Eldre
     copy_code:
-      succeed: Copied!
+      succeed: Kopiert!
     share_link:
-      title: Copy link
-      succeed: Link copied successfully!
+      title: Kopier lenke
+      succeed: Lenke kopiert!
   # pinned prompt of posts list on homepage
-  pin_prompt: Pinned
+  pin_prompt: Festet innlegg
 
 # categories page
 categories:
   category_measure:
-    singular: category
-    plural: categories
+    singular: kategori
+    plural: kategorier
   post_measure:
-    singular: post
-    plural: posts
+    singular: innlegg
+    plural: innlegg
