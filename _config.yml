@@ -23,10 +23,10 @@ timezone:
 
 title: Rettsinformatikk                          # the main title
 
-tagline: Blogg som tar for seg juridiske problemstillinger innen krysningspunktet mellom juss og teknologi.   # it will display as the sub-title
+tagline: Blogg som tar for seg juridiske problemstillinger i krysningspunktet mellom juss og teknologi.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Velkommen til min personlige blogg hvor jeg skriver om rettsteknologiske emner som interesserer innenfor rettsområder som personvern, immaterialrett og kontraktsrett mv. Bokmerk gjerne denne siden for å få med deg det nyeste.
+  Velkommen til min personlige blogg hvor jeg skriver om rettsteknologiske emner innen rettsområder som personvern, immaterialrett og kontraktsrett mv. Bokmerk gjerne denne siden for å få med deg det nyeste.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://github.com/N8-m8/n8-m8.github.io'
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: 'https://github.com/N8-m8/n8-m8.github.io/blob/main/assets/images/club-keyboard.jpg'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
