@@ -10,5 +10,5 @@ tags: [diverse]     # TAG names should always be lowercase
 Nå er bloggen endelig oppe å kjøre. **Bokmerk** gjerne hjemmesiden for å holde øye med oppdateringer.
 
 ![Midjourney AI-generert bilde av frasen "computers and law"](https://github.com/N8-m8/n8-m8.github.io/blob/main/assets/images/computers_and_law.png?raw=true)
-_Image Caption_
+_AI-generert bilde skapt med Midjourney ut fra frasen "computers and law."_
 
