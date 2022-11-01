@@ -22,4 +22,4 @@ Rettigheter og lisens etter Creative Commons-lisens:
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/no/"><img alt="Creative Commons-lisens" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/3.0/no/88x31.png" /></a><br />Dette verk er lisensieret under en <a rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/no/">Creative Commons Navngivelse-IngenBearbeidelse 3.0 Norge lisens</a>.
 
-Det gis bruksrett for å bruke videre innholdet for ethvert formål, inkludert kommersielt, men innholdet kan ikke brukes videre eller deles i endret form, og det må gis referanse (krediteres) til rettighetshaveren, dvs. Nathaniel Skar Eide samt til disse nettsidene, nse-juridisk.no. Les mer her: https://creativecommons.org/licenses/by-nd/3.0/no/  
+Det gis bruksrett for å bruke videre innholdet for ethvert formål, inkludert kommersielt, men innholdet kan ikke brukes videre eller deles i endret form, og det må gis referanse (krediteres) til rettighetshaveren, dvs. Nathaniel Skar Eide samt til disse nettsidene, www.rettsinformatikk.no. Les mer her: https://creativecommons.org/licenses/by-nd/3.0/no/  
