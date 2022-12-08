@@ -197,5 +197,5 @@ jekyll-archives:
     category: category
     tag: tag
   permalinks:
-    tag: /stikkord/:name/
-    category: /kategorier/:name/
+    tag: /tags/:name/
+    category: /categories/:name/
