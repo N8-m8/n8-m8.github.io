@@ -1,8 +1,6 @@
 ---
 title: Hallo Verden
 date: 2022-10-23 18:44:00 +0100
-categories: [Diverse, Test]
-tags: [diverse]     # TAG names should always be lowercase
 ---
 
 # Hallo verden!
