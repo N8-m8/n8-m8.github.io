@@ -1,7 +1,6 @@
 ---
 title: Programvarelisenser: En innføring
 date: 2022-12-10 06:44:00 +0100
-categories: [Diverse, Test]
 ---
 
 # Programvarelisenser: En innføring
