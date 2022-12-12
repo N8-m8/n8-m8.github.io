@@ -1,6 +1,8 @@
 ---
 title: Hallo Verden
+author: Nathaniel
 date: 2022-10-23 18:44:00 +0100
+render_with_liquid: false
 ---
 
 # Hallo verden!
