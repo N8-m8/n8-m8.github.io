@@ -1,6 +1,7 @@
 ---
 title: Programvarelisenser: En innføring
 date: 2022-10-22 13:44:00 +0100
+render_with_liquid: false
 ---
 
 # Programvarelisenser: En innføring
