@@ -1,6 +1,6 @@
 ---
 title: Programvarelisenser: En innføring
-date: 2022-12-10 06:44:00 +0100
+date: 2022-10-22 13:44:00 +0100
 ---
 
 # Programvarelisenser: En innføring
